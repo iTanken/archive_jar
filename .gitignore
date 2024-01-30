@@ -1,0 +1,12 @@
+/bin/
+**/bin/
+node_modules/
+**/.DS_store
+.idea/
+.vscode/
+wildfly-doc-cn.iml
+*.log
+/.settings/
+/.classpath
+/.project
+**/test.*
